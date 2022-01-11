@@ -1,2 +1,2 @@
-Logo's Font - Impact Regular
-Main Logo Font - Sarina Regular
+- Logo's Font - Impact Regular
+- Main Logo Font - Sarina Regular
